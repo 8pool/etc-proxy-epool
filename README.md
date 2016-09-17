@@ -1,6 +1,6 @@
 #Description
 
-# Epool Supported eth-proxy
+# Epool Supported etc-proxy
 
 This is Stratum Proxy for Ethereum based pools (RPCv2) using asynchronous networking written in Python Twisted.
 Originally developed for DwarfPool http://dwarfpool.com/eth
@@ -8,7 +8,7 @@ Originally developed for DwarfPool http://dwarfpool.com/eth
 #Features
 
 * Additional up to 20% increase of earning compared to standard pools
-* ETH stratum proxy
+* ETC stratum proxy
 * Automatically failover via proxy
 * Only one connection to the pool
 * Workers get new jobs immediately
@@ -38,7 +38,7 @@ Originally developed for DwarfPool http://dwarfpool.com/eth
 
 #Configuration
 
-* all configs in file  eth-proxy.conf
+* all configs in file  etc-proxy.conf
 
 
 #Command line to miner start, recommended farm-recheck to use with stratum-proxy is 200
