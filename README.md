@@ -1,6 +1,6 @@
 #Description
 
-# Epool Supported etc-proxy
+# Epool Supported etc-proxy for Linux
 
 This is Stratum Proxy for Ethereum based pools (RPCv2) using asynchronous networking written in Python Twisted.
 Originally developed for DwarfPool http://dwarfpool.com/eth
@@ -65,7 +65,7 @@ Originally developed for DwarfPool http://dwarfpool.com/eth
 
 #Requirements
 
-eth-proxy is built in python. I have been testing it with 2.7.3, but it should work with other versions. The requirements for running the software are below.
+etc-proxy is built in python. I have been testing it with 2.7.3, but it should work with other versions. The requirements for running the software are below.
 
 * Python 2.7+
 * python-twisted
@@ -81,39 +81,7 @@ eth-proxy is built in python. I have been testing it with 2.7.3, but it should w
 
 2) start proxy with
 ```
- python ./eth-proxy.py
-```
-
-* [Windows]
-Download compiled version
-https://github.com/Atrides/eth-proxy/releases
-
-Or use python source code
-
-1) Download Python Version 2.7.10 for Windows
-https://www.python.org/downloads/
-
-2) Modify PATH variable (how-to http://www.java.com/en/download/help/path.xml) and add
-   C:\Python27;C:\Python27\Scripts;
-
-3) Install python setuptools
-https://pypi.python.org/pypi/setuptools/#windows-7-or-graphical-install
-
-4) Install Python-Twisted
-https://pypi.python.org/pypi/Twisted/15.4.0
-File Twisted-15.4.0.win32-py2.7.msi (32bit) or Twisted-15.4.0.win-amd64-py2.7.msi (64bit)
-
-5) Install zope.interface, in console run:
-```
-   easy_install -U zope.interface
-```
-6) Install PyWin32 v2.7
-pywin32-219.win32-py2.7.exe or pywin32-219.win-amd64-py2.7.exe
-http://sourceforge.net/projects/pywin32/files/pywin32/
-
-7) Download eth-proxy. Extract eth-proxy.zip. Change settings in config.py and start with command:
-```
-  python xmr-proxy.py
+ python ./etc-proxy.py
 ```
 
 #Credits
