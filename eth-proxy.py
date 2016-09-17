@@ -78,7 +78,7 @@ def on_disconnect(f):
 def main():
     reactor.disconnectAll()
 
-    log.warning("Ethereum Stratum proxy version: %s" % version.VERSION)
+    log.warning("Ethereum Classic Stratum proxy version: %s" % version.VERSION)
 
     # Connect to Stratum pool, main monitoring connection
     log.warning("Trying to connect to Stratum pool at %s:%d" % (settings.POOL_HOST, settings.POOL_PORT))
