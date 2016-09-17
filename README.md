@@ -1,5 +1,7 @@
 #Description
 
+# Epool Supported eth-proxy
+
 This is Stratum Proxy for Ethereum based pools (RPCv2) using asynchronous networking written in Python Twisted.
 Originally developed for DwarfPool http://dwarfpool.com/eth
 
@@ -61,7 +63,7 @@ Originally developed for DwarfPool http://dwarfpool.com/eth
 
 #Donations
 
-* ETH:  0xea7263feb7d8a8ab0a11eedd8f1ce04412ab0820
+* ETH:  0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9
 
 
 #Requirements
@@ -117,14 +119,11 @@ http://sourceforge.net/projects/pywin32/files/pywin32/
   python xmr-proxy.py
 ```
 
-#Contact
-
-* I am available via admin@dwarfpool.com
-
 #Credits
 
 * Original version by Slush0 (original stratum code)
 * More Features added by GeneralFault, Wadee Womersley and Moopless
+* Dwarfpool eth-proxy
 
 #License
 
