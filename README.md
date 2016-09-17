@@ -54,7 +54,7 @@ Originally developed for DwarfPool http://dwarfpool.com/eth
 # Proxy working check
 
 * To check that proxy works open in browser http://127.0.0.1:8080/ (or your changed ip and port from config)
-* If you see "Ethereum stratum proxy" and some infos about connections.
+* If you see "Ethereum Classic stratum proxy" and some infos about connections.
 * If not then mostly case that you have application running on this port, at example Antivirus.
 
 
