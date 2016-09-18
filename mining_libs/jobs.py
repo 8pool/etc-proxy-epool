@@ -55,9 +55,9 @@ class JobRegistry(object):
                 pool_number = 3
 
         if is_main_pool:
-            log_text = "NEW_JOB MAIN_POOL"
+            log_text = "NEW_JOB MAIN_POOL http://www.epool.io/#/account/%s" % settings.WALLET
         else:
-            log_text = "NEW_JOB FAILOVER_POOL%s" % pool_number
+            log_text = "NEW_JOB FAILOVER_POOL%s http://www.epool.io/#/account/%s" % ('pool_number', 'settings.WALLET')
 
         if (self.f and self.f.is_connected and is_main_pool) or \
             (not self.f.is_connected and not is_main_pool and self.f1 and self.f1.is_connected and is_failover_pool1) or \
