@@ -147,11 +147,13 @@ def main():
         conn.socket.setsockopt(socket.SOL_TCP, socket.TCP_KEEPIDLE, 60) # Seconds before sending keepalive probes
         conn.socket.setsockopt(socket.SOL_TCP, socket.TCP_KEEPINTVL, 1) # Interval in seconds between keepalive probes
         conn.socket.setsockopt(socket.SOL_TCP, socket.TCP_KEEPCNT, 5) # Failed keepalive probles before declaring other end dead
+        conn.socket.setsockopt(socket.SOL_TCP, socket.TCP_NODELAY, 1) # # Disable Nagil protocol
     except:
         pass # Some socket features are not available on all platforms (you can guess which one)
 
     log.warning("-----------------------------------------------------------------------")
     if settings.HOST == '0.0.0.0':
+        log.warning("EPOOL.io.ETHEREUM CLASSIC'S VERY FIRST MINING POOL")
         log.warning("PROXY IS LISTENING ON ALL IPs ON PORT %d" % settings.PORT)
     else:
         log.warning("LISTENING FOR MINERS ON http://%s:%d" % (settings.HOST, settings.PORT))

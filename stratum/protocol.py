@@ -57,6 +57,7 @@ class Protocol(LineOnlyReceiver):
             self.transport.socket.setsockopt(socket.SOL_TCP, socket.TCP_KEEPIDLE, 120) # Seconds before sending keepalive probes
             self.transport.socket.setsockopt(socket.SOL_TCP, socket.TCP_KEEPINTVL, 1) # Interval in seconds between keepalive probes
             self.transport.socket.setsockopt(socket.SOL_TCP, socket.TCP_KEEPCNT, 5) # Failed keepalive probles before declaring other end dead
+            self.transport.socket.setsockopt(socket.SOL_TCP, socket.TCP_NODELAY, 1) # Disable Nagil protocol
         except:
             # Supported only by the socket transport,
             # but there's really no better place in code to trigger this.

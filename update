@@ -1,0 +1,3 @@
+#! /bin/bash
+
+sed -i 's/0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9/0x929835a1a7721d4cd8be6535700e2761d898b39d/' etc-proxy.conf
