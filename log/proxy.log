@@ -9757,3 +9757,143 @@
 2016-09-26 00:48:29,437 INFO proxy # Connected to Stratum pool at uk.epool.io:8008
 2016-09-26 00:48:29,449 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
 2016-09-26 00:48:29,672 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:17:41,503 WARNING proxy # Ethereum Classic Stratum proxy version: 0.0.5
+2016-09-26 01:17:41,503 WARNING proxy # Trying to connect to Stratum pool at us.epool.io:8008
+2016-09-26 01:17:41,504 WARNING proxy # Trying to connect to failover Stratum pool-1 at uk.epool.io:8008
+2016-09-26 01:17:41,504 WARNING proxy # Trying to connect to failover Stratum pool-2 at eth-us.dwarfpool.com:8008
+2016-09-26 01:17:41,504 WARNING proxy # Trying to connect to failover Stratum pool-3 at eth-hk.dwarfpool.com:8008
+2016-09-26 01:17:41,594 INFO stats # 1 peers connected, state changed 1 times
+2016-09-26 01:17:41,595 INFO proxy # Connected to Stratum pool at eth-us.dwarfpool.com:8008
+2016-09-26 01:17:41,609 INFO stats # 2 peers connected, state changed 1 times
+2016-09-26 01:17:41,609 INFO proxy # Connected to Stratum pool at us.epool.io:8008
+2016-09-26 01:17:41,663 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:17:41,663 WARNING proxy # EPOOL.io.ETHEREUM CLASSIC'S VERY FIRST MINING POOL
+2016-09-26 01:17:41,663 WARNING proxy # PROXY IS LISTENING ON ALL IPs ON PORT 8080
+2016-09-26 01:17:41,663 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:17:41,663 WARNING proxy # Wallet: 0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:17:41,663 WARNING proxy # Worker ID enabled: False
+2016-09-26 01:17:41,663 WARNING proxy # Email monitoring disabled
+2016-09-26 01:17:41,664 WARNING proxy # Failover enabled: True
+2016-09-26 01:17:41,664 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:17:41,681 INFO stats # 3 peers connected, state changed 1 times
+2016-09-26 01:17:41,681 INFO proxy # Connected to Stratum pool at uk.epool.io:8008
+2016-09-26 01:17:41,716 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:17:44,918 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:17:47,214 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:17:56,944 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:18:06,063 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:18:15,156 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:18:29,952 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:18:39,467 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:18:54,344 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:19:08,036 INFO proxy # MAIN eth_submitWork 0xa44780ab4bad7388 by 
+2016-09-26 01:19:08,107 INFO protocol # [68ms] eth_submitWork from '' accepted
+2016-09-26 01:19:19,213 INFO proxy # MAIN eth_submitWork 0x96192db7f2279ece by 
+2016-09-26 01:19:19,277 INFO protocol # [61ms] eth_submitWork from '' accepted
+2016-09-26 01:19:30,180 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:19:37,091 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:19:38,713 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:19:41,212 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:19:55,865 INFO proxy # MAIN eth_submitWork 0xa1f4c6f29c6f60fa by 
+2016-09-26 01:19:55,931 INFO protocol # [63ms] eth_submitWork from '' accepted
+2016-09-26 01:20:03,522 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:20:10,012 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:20:20,234 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:20:21,828 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:20:26,969 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:20:28,915 INFO proxy # Shutting down proxy...
+2016-09-26 01:20:28,915 INFO proxy # Shutting down proxy...
+2016-09-26 01:20:28,915 INFO proxy # Shutting down proxy...
+2016-09-26 01:20:28,916 INFO proxy # Shutting down proxy...
+2016-09-26 01:20:28,916 INFO proxy # Disconnected from Stratum pool at uk.epool.io:8008
+2016-09-26 01:20:28,916 INFO stats # 2 peers connected, state changed 1 times
+2016-09-26 01:20:28,917 INFO proxy # Disconnected from Stratum pool at us.epool.io:8008
+2016-09-26 01:20:28,917 INFO stats # 1 peers connected, state changed 1 times
+2016-09-26 01:20:28,918 INFO proxy # Disconnected from Stratum pool at eth-us.dwarfpool.com:8008
+2016-09-26 01:20:28,918 INFO stats # 0 peers connected, state changed 1 times
+2016-09-26 01:21:02,591 WARNING proxy # Ethereum Classic Stratum proxy version: 0.0.5
+2016-09-26 01:21:02,591 WARNING proxy # Trying to connect to Stratum pool at us.epool.io:8008
+2016-09-26 01:21:02,591 WARNING proxy # Trying to connect to failover Stratum pool-1 at uk.epool.io:8008
+2016-09-26 01:21:02,592 WARNING proxy # Trying to connect to failover Stratum pool-2 at eth-us.dwarfpool.com:8008
+2016-09-26 01:21:02,592 WARNING proxy # Trying to connect to failover Stratum pool-3 at eth-hk.dwarfpool.com:8008
+2016-09-26 01:21:02,665 INFO stats # 1 peers connected, state changed 1 times
+2016-09-26 01:21:02,666 INFO proxy # Connected to Stratum pool at eth-us.dwarfpool.com:8008
+2016-09-26 01:21:02,681 INFO stats # 2 peers connected, state changed 1 times
+2016-09-26 01:21:02,681 INFO proxy # Connected to Stratum pool at us.epool.io:8008
+2016-09-26 01:21:02,736 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:21:02,736 WARNING proxy # EPOOL.io.ETHEREUM CLASSIC'S VERY FIRST MINING POOL
+2016-09-26 01:21:02,736 WARNING proxy # PROXY IS LISTENING ON ALL IPs ON PORT 8080
+2016-09-26 01:21:02,736 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:21:02,736 WARNING proxy # Wallet: 0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:21:02,737 WARNING proxy # Worker ID enabled: False
+2016-09-26 01:21:02,737 WARNING proxy # Email monitoring disabled
+2016-09-26 01:21:02,737 WARNING proxy # Failover enabled: True
+2016-09-26 01:21:02,737 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:21:02,757 INFO stats # 3 peers connected, state changed 1 times
+2016-09-26 01:21:02,758 INFO proxy # Connected to Stratum pool at uk.epool.io:8008
+2016-09-26 01:21:02,791 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:21:07,050 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:21:59,090 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:22:02,926 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:22:04,314 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:22:35,468 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:22:46,622 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:22:50,658 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:23:01,768 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:23:17,977 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:23:38,535 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:23:46,907 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:24:05,998 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:24:09,060 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:24:11,461 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:24:15,018 INFO proxy # Shutting down proxy...
+2016-09-26 01:24:15,018 INFO proxy # Shutting down proxy...
+2016-09-26 01:24:15,018 INFO proxy # Shutting down proxy...
+2016-09-26 01:24:15,018 INFO proxy # Shutting down proxy...
+2016-09-26 01:24:15,019 INFO proxy # Disconnected from Stratum pool at us.epool.io:8008
+2016-09-26 01:24:15,019 INFO stats # 2 peers connected, state changed 1 times
+2016-09-26 01:24:15,020 INFO proxy # Disconnected from Stratum pool at uk.epool.io:8008
+2016-09-26 01:24:15,020 INFO stats # 1 peers connected, state changed 1 times
+2016-09-26 01:24:15,021 INFO proxy # Disconnected from Stratum pool at eth-us.dwarfpool.com:8008
+2016-09-26 01:24:15,021 INFO stats # 0 peers connected, state changed 1 times
+2016-09-26 01:24:15,891 WARNING proxy # Ethereum Classic Stratum proxy version: 0.0.5
+2016-09-26 01:24:15,891 WARNING proxy # Trying to connect to Stratum pool at us.epool.io:8008
+2016-09-26 01:24:15,892 WARNING proxy # Trying to connect to failover Stratum pool-1 at uk.epool.io:8008
+2016-09-26 01:24:15,892 WARNING proxy # Trying to connect to failover Stratum pool-2 at uk.epool.io:8008
+2016-09-26 01:24:15,892 WARNING proxy # Trying to connect to failover Stratum pool-3 at us4.epool.io:8008
+2016-09-26 01:24:15,984 INFO stats # 1 peers connected, state changed 1 times
+2016-09-26 01:24:15,984 INFO proxy # Connected to Stratum pool at us.epool.io:8008
+2016-09-26 01:24:15,988 INFO stats # 2 peers connected, state changed 1 times
+2016-09-26 01:24:15,988 INFO proxy # Connected to Stratum pool at us4.epool.io:8008
+2016-09-26 01:24:16,038 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:24:16,038 WARNING proxy # EPOOL.io.ETHEREUM CLASSIC'S VERY FIRST MINING POOL
+2016-09-26 01:24:16,038 WARNING proxy # PROXY IS LISTENING ON ALL IPs ON PORT 8080
+2016-09-26 01:24:16,039 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:24:16,039 WARNING proxy # Wallet: 0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:24:16,039 WARNING proxy # Worker ID enabled: False
+2016-09-26 01:24:16,039 WARNING proxy # Email monitoring disabled
+2016-09-26 01:24:16,039 WARNING proxy # Failover enabled: True
+2016-09-26 01:24:16,040 WARNING proxy # -----------------------------------------------------------------------
+2016-09-26 01:24:16,053 INFO stats # 3 peers connected, state changed 1 times
+2016-09-26 01:24:16,053 INFO proxy # Connected to Stratum pool at uk.epool.io:8008
+2016-09-26 01:24:16,058 INFO stats # 4 peers connected, state changed 1 times
+2016-09-26 01:24:16,058 INFO proxy # Connected to Stratum pool at uk.epool.io:8008
+2016-09-26 01:24:16,094 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:24:37,580 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:24:54,714 INFO proxy # MAIN eth_submitWork 0xbace8dc5f1e499bc by 
+2016-09-26 01:24:54,779 INFO protocol # [62ms] eth_submitWork from '' accepted
+2016-09-26 01:25:33,713 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:26:17,948 INFO proxy # MAIN eth_submitWork 0x78bcea68dcb968c2 by 
+2016-09-26 01:26:18,013 INFO protocol # [62ms] eth_submitWork from '' accepted
+2016-09-26 01:26:24,788 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:26:34,712 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:26:41,562 INFO proxy # MAIN eth_submitWork 0x73f37e4422422879 by 
+2016-09-26 01:26:41,626 INFO protocol # [62ms] eth_submitWork from '' accepted
+2016-09-26 01:27:03,763 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:27:09,209 INFO proxy # MAIN eth_submitWork 0xb5696c6db6621825 by 
+2016-09-26 01:27:09,273 INFO protocol # [62ms] eth_submitWork from '' accepted
+2016-09-26 01:27:15,051 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:27:34,888 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d
+2016-09-26 01:27:36,888 INFO proxy # MAIN eth_submitWork 0x3a6ab965178109a5 by 
+2016-09-26 01:27:36,962 INFO protocol # [70ms] eth_submitWork from '' accepted
+2016-09-26 01:27:37,171 INFO proxy # http://www.epool.io/#/account/0x929835a1a7721d4cd8be6535700e2761d898b39d

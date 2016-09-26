@@ -158,9 +158,9 @@ POOL_PORT = 8008
 
 # Failover pool.
 POOL_FAILOVER_ENABLE = False
-POOL_HOST_FAILOVER1 = 'eth-ru.dwarfpool.com'
+POOL_HOST_FAILOVER1 = 'us.epool.io'
 POOL_PORT_FAILOVER1 = 8008
-POOL_HOST_FAILOVER2 = 'eth-us.dwarfpool.com'
+POOL_HOST_FAILOVER2 = 'uk.epool.io'
 POOL_PORT_FAILOVER2 = 8008
-POOL_HOST_FAILOVER3 = 'eth-hk.dwarfpool.com'
+POOL_HOST_FAILOVER3 = 'us4.epool.io'
 POOL_PORT_FAILOVER3 = 8008
