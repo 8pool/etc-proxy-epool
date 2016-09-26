@@ -21,7 +21,7 @@ LOGLEVEL = 'INFO'
 # How many threads use for synchronous methods (services).
 # 30 is enough for small installation, for real usage
 # it should be slightly more, say 100-300.
-THREAD_POOL_SIZE = 30
+THREAD_POOL_SIZE = 300
 
 # RPC call throws TimeoutServiceException once total time since request has been
 # placed (time to delivery to client + time for processing on the client)
